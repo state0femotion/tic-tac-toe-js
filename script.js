@@ -9,7 +9,6 @@
 - checking for cats game 
 - letting the winner know 
 - restart game option
-https://www.youtube.com/watch?v=Y-GkMjUZsmM
 */
 
 const X_CLASS = 'x'
